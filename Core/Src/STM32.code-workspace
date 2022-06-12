@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../UART_7SEGMENT_RS485"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Rs-485"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c"
+		}
+	}
+}
